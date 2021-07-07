@@ -1,12 +1,12 @@
 <h1>Hulu Clone</h1>
-<hr/>
+
 <br/>
 <br/>
 <br/>
 <h2>Preview</h3>
 <hr/>
 <br/>
-<img src='../images/preview.png'>
+<img src='https://github.com/Nick9499/Hulu-CLone/blob/main/images/preview.png'>
 <br/>
 <br/>
 <br/>
@@ -16,7 +16,7 @@
 <li>Next Js</li>
 <li>Tailwind CSS</li>
 <li>TMDB API</li>
-<li></li>
+
 </ul>
 <h3>Setup</h3>
 <hr/>
