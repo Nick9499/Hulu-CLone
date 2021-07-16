@@ -1,4 +1,6 @@
 <h1>Hulu Clone</h1>
+<p>A clone of Hulu Website.</p>
+<p>Website is live on http://hulu-clone-nick9499.vercel.app/ </p>
 
 <br/>
 <br/>
@@ -10,6 +12,16 @@
 <br/>
 <br/>
 <br/>
+<h2>Features:</h2>
+<hr/>
+<ul>
+  <li>Showing different genres of movies using TMDB Api</li>
+  <li>Lazy loading</li>
+  </ul>
+  <br/>
+<br/>
+<br/>
+<h2>Next App</h2>
 <h3>Technologies used: </h3>
 <hr/>
 <ul>
